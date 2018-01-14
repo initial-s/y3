@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from humanfriendly import format_timespan, format_size, format_number, format_length
 import time, random, sys, json, codecs, threading, glob, re, string, os, requests, subprocess, six, urllib, urllib.parse, ast, pytz
 
-client = LineClient(authToken='EomksMbyVhT3gwDsm3Pd.HA9gq9UQdSlKV+JGFmbUVq.C4MOCpb5+l9joJ9oUoduzmOPAi5uZIgOMflRdpg/Jt4=')
+client = LineClient(authToken='token kalian')
 client.log("Auth Token : " + str(client.authToken))
 
 channel = LineChannel(client)
