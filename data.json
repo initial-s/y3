@@ -1,0 +1,11 @@
+{
+	"LINE_HOST_DOMAIN": "https://gd2.line.naver.jp",
+	"LINE_OBS_DOMAIN": "https://obs-sg.line-apps.com",
+	"LINE_TIMELINE_API": "https://gd2.line.naver.jp/mh/api",
+	"LINE_TIMELINE_MH": "https://gd2.line.naver.jp/mh",
+	"USER_AGENT": "Line/7.14.0",
+	"APP_NAME_PC": "DESKTOPMAC\t5.3.3-YOSEMITE-x64\tMAC\t10.12.0",
+	"APP_NAME_IPAD": "IOSIPAD\t7.5.2\tiPhone\tOS\t9.0.2",
+	"APP_NAME_CHROME": "CHROMEOS\t1.4.13\tChrome_OS\t1",
+	"SYSTEM_NAME": "ZeRobot (Selfbot)"
+}
